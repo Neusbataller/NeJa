@@ -1,3 +1,4 @@
-pruebas
+Soy estudiante de DAM y estoy haciendo la asignatura acceso a datos, soy junior muy junior, así que el código hay que hacerlo lo más simple y sencillo posible, ponme comentarios de donde viene cada cosa y el por que. Vamos a hacer este examen de modo repaso, lo he hecho esta mañana y me gustaría hacerlo contigo. Importante comentarte que lo hago con DAO, me gusta tenerlo estructurado con diferentes clases por que así lo tengo más visual y más fácil de detectar errores. Por ahora la estructura la tengo así:
 
-si
+
+Ahora vamos a seguir el código, pásame el código completo de cada clase con comentarios para que lo entienda, recuerda hacer el código cómo un junior. que sea comprensible y sencillo Muchas gracias.
